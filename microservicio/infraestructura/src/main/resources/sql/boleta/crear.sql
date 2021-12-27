@@ -1,0 +1,1 @@
+insert into boleta (id_usuario, id_evento, fecha_compra, valor_total_compra, cantidad) values (:idUsuario, :idEvento, :fechaCompra, :valorTotalCompra, :cantidad)

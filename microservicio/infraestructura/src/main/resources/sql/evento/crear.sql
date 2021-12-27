@@ -1,0 +1,1 @@
+insert into evento (nombre, direccion, valor_entrada, numero_boletas, exige_carnet, fecha_inicio, fecha_cierre) values (:nombre, :direccion, :valorEntrada, :numeroBoletas, :exigeCarnet, :fechaInicio, :fechaCierre)
